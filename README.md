@@ -1,0 +1,2 @@
+# -Hotel-Bookings-Analysis-Dashboard-with-R-Shiny-ggplot2-dplyr-
+This project features an interactive Shiny dashboard for analyzing hotel bookings data, using R libraries like ggplot2 and dplyr. It provides visual insights into monthly booking trends, cancellation rates, customer types, special requests, and more for City and Resort Hotels. Ideal for decision-makers to track key metrics and optimize strategies.
